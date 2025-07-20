@@ -1,6 +1,7 @@
 import ExpenseList from "./components/ExpenseList";
 import MemberList from "./components/MemberList";
- 
+import Result from "./components/Result";
+
 function App() {
   return (
     <>
